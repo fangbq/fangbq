@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-My homepage: [fangbiqing.com](fangbiqing.com)
+My homepage: [fangbiqing.com](https://www.fangbiqing.com)
 ![](https://github.com/fangbq/fangbq/blob/main/meatdenver.png)
 
 <!--
